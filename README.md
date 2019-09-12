@@ -1,1 +1,2 @@
 The files above has two projects which are basically of same nature . One is self balancing bot which is stabilized through a pid algorithm .Another with the 'final' word at last is the code of self balancing bot with forward backward and left right movements . Both the codes are commented properly in order to understand .
+For the self balancing robot i had used a simple geared dc motor 150 rpm For the bot with movements i had used 300 rpm encoder motors .
